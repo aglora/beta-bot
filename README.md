@@ -2,9 +2,9 @@
 ![Quadrotor_image](https://github.com/ResitanceBot/beta-bot/blob/doc/images/Presentation.png)
 
 ## Authors
-[RoboticsLeon](https://github.com/RoboticsLeon)
-[arubedaq](https://github.com/arubedaq)
-[aglora](https://github.com/aglora)
+[RoboticsLeon](https://github.com/RoboticsLeon) //
+[arubedaq](https://github.com/arubedaq) //
+[aglora](https://github.com/aglora) 
 
 
 ## Project description
