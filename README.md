@@ -1,6 +1,9 @@
 # BETA BOT PROJECT
 ![Quadrotor_image](https://github.com/ResitanceBot/beta-bot/blob/doc/images/Presentation.png)
 
+## Authors
+@RoboticsLeon / @arubedaq / @aglora
+
 ## Project description
 This project consists of the EKF-based localization of a quadrotor aerial robot. The approach we propose focuses on urban air mobility, where having accurate vehicle localization is of paramount importance for enabling increasingly autonomous and secure operations of these vehicles in cities.
 
